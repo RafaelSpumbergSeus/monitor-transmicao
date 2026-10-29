@@ -2,7 +2,7 @@
 
 - Fonte: **sintetico**  (DADOS SINTÉTICOS com defeitos injetados de propósito)
 - Data de corte: 2025-12-31
-- Execução: 2026-10-29T01:02:21+00:00
+- Execução: 2026-10-29T01:30:22+00:00
 
 | Regra | Severidade | Falhas | Total | % | Limite | Status |
 |---|---|---:|---:|---:|---:|---|

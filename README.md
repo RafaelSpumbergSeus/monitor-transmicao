@@ -4,7 +4,7 @@ Pipeline de dados ponta a ponta (Python + SQL + modelo dimensional + Power BI) q
 
 ![Tempo por coorte](docs/img/tempo_por_coorte.png)
 
-> ⚠️ **Leia isto antes de citar qualquer número.** O repositório acompanha um **gerador de dados sintéticos** (com defeitos injetados de propósito) para rodar sem rede e para testes. A figura acima, o relatório de qualidade e todos os exemplos do README vêm desses dados e **não descrevem a Justiça real**. Para análise real, use a ingestão do DataJud (abaixo) e substitua os números.
+> ⚠️O repositório acompanha um **gerador de dados sintéticos** (com defeitos injetados de propósito) para rodar sem rede e para testes. A figura acima, o relatório de qualidade e todos os exemplos do README vêm desses dados e **não descrevem a Justiça real**. Para análise real, use a ingestão do DataJud (abaixo) e substitua os números.
 
 ## Status do que foi (e do que não foi) verificado
 
