@@ -1,0 +1,16 @@
+padrao,categoria,prioridade,ordem_fase
+distribui%,distribuicao,10,1
+conclus%,conclusao,10,2
+despacho%,despacho,10,3
+juntada%,juntada,10,3
+expedi%,expedicao,10,3
+audi_ncia%,audiencia,10,4
+decis%,decisao,20,5
+senten%,julgamento,10,6
+julgamento%,julgamento,10,6
+proced%,julgamento,10,6
+improced%,julgamento,10,6
+extin%,julgamento,10,6
+%tr_nsito em julgado%,transito,10,7
+baixa%,baixa,10,8
+arquiv%,baixa,10,8
